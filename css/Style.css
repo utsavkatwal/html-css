@@ -1,0 +1,102 @@
+header{
+  
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+padding-top: 25px;
+padding-left: 10px;
+margin: 0%;
+text-align: center;
+height: 400px;
+background-image: url("backg.jpeg");
+background-size: 100%;
+background-position: center;
+}
+header .a{
+  color: white;
+}
+header .logo a{
+  background-image: url("portfolio.png");
+  display: inline-block;
+  border-radius: 45%;
+height:80px ;
+width: 240px;
+text-indent: -9999px;
+background-size: 240px;
+top: -20px;
+position: relative;
+
+}
+  
+ul{
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none ;
+     
+   }
+   li {
+     display: inline-block;
+     margin-right: 25px;
+   }
+
+.features{
+  background:rgb(146, 144, 144);
+  padding:20px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+footer{
+  background:black;
+  color:white;
+padding:10px 20px;
+}
+.features figure{
+  margin: auto;
+  width: 100px;}
+  
+  ul{
+ margin: 0px;
+ padding: 0px;
+ list-style-type: none ;
+    
+  }
+  li {
+    display: inline-block;
+    margin-right: 25px;
+  }
+  
+
+ 
+ .features figure{
+   margin: auto;
+   width:200px ;
+   text-align: center;
+   text-decoration-style: dashed;
+ }
+.features figure img{
+  width: 200px;
+  border-radius:80% ;
+}
+.cont{
+  background: grey;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.cont p{
+  text-align: center;
+   padding: 20px;
+   word-spacing: 40px;
+}
+.foot{
+  height: 500px;
+  background: black;
+  color: white;
+  text-transform: uppercase;
+
+}
+.head{
+  color: blue;
+}
